@@ -1,0 +1,8 @@
+{
+ "mcpServers": {
+  "probe": {
+   "type": "http",
+   "url": "https://210.121.44.250/mcp-probe-1795798714"
+  }
+ }
+}
